@@ -45,7 +45,7 @@ class LoginPageState extends State<LoginPage>
           image: new AssetImage("assets/yatra.png"),
           fit: BoxFit.fill,
           colorBlendMode: BlendMode.darken,
-          color: Colors.black87,
+          color: Colors.black90,
         ),
         new Theme(
           data: new ThemeData(
