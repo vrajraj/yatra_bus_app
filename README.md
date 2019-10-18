@@ -1,6 +1,5 @@
 # login_page
-
-A new Flutter application.
+using this app you can book ticket for bus for any destination.
 
 ## Getting Started
 
